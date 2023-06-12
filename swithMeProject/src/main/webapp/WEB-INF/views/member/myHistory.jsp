@@ -16,6 +16,7 @@
 		<div class="mySide">
 			<jsp:include page="myMenuBar.jsp" />
 		</div>
+		<!-- 유진 커밋 테스트 -->
 		
         <!-- 컨텐츠 영역 -->
 		<div class="content">
